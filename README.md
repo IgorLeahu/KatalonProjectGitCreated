@@ -1,2 +1,1 @@
 # KatalonProjectGitCreated
-Edited today local
